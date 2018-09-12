@@ -1,5 +1,6 @@
 {
     "require": {
-        "mnapoli/bref": "^0.2.25"
+        "mnapoli/bref": "^0.2.25",
+        "slim/slim": "^3.10"
     }
 }
